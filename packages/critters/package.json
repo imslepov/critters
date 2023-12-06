@@ -1,6 +1,6 @@
 {
-  "name": "critters",
-  "version": "0.0.20",
+  "name": "@taigacrm/critters",
+  "version": "0.0.21",
   "description": "Inline critical CSS and lazy-load the rest.",
   "main": "dist/critters.js",
   "module": "dist/critters.mjs",
@@ -37,7 +37,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/GoogleChromeLabs/critters",
+    "url": "https://github.com/imslepov/critters",
     "directory": "packages/critters"
   },
   "scripts": {
